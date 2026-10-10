@@ -8,10 +8,16 @@ Story 2: As a user, I want to add income (e.g. salary), so that I can see the mo
 
 Story 3: As a user, I want a clear message and another try when I type something invalid, so that the app never crashes.
 
+
+
 Andras User Stories:
+
 User Story 1:As a user, I want every entry saved to a file, so that my data is still there next time.
+
 User Story 2:As a user, I want my saved entries loaded when the app starts, so that I can continue where I left off.
+
 User Story 3:As a user, I want to delete or edit a wrong entry, so that my data stays correct.
+
 
 
 
@@ -22,6 +28,8 @@ User Story 1: As a user, I want to choose a category from a fixed list and see h
 User Story 2: As a user, I want to set a monthly budget per category and get a warning when I go over it, so that I don't overspend.
 
 User Story 3: As a user, I want to set a savings goal and see my progress, so that I stay motivated.
+
+
 
 
 Stefano User Stories:
