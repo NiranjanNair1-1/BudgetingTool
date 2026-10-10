@@ -13,6 +13,7 @@ Andras User Stories:
 
 
 Alpha User Stories:
+
 User Story 1: As a user, I want to choose a category from a fixed list and see how much I spent per category, so that I know where my money goes.
 
 User Story 2: As a user, I want to set a monthly budget per category and get a warning when I go over it, so that I don't overspend.
