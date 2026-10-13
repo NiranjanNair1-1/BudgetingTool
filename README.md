@@ -39,3 +39,16 @@ Stefano User Stories:
   US-11: As a user, I want to filter the list (only expenses, only income, one category), so that I find things quickly.
 
   US-12: As a user, I want a dashboard with income, expenses and balance for a month I choose, so that I know where I stand.
+
+
+*Problem:*
+
+Many people find it difficult to keep track of their income and expenses. Forgetting how much they have spent, where their money goes, or whether they are staying within their budget is a common issue. Our budgeting tool aims to help users manage their money. We achieve this with features like tracking income and expenses, organizing transactions into categories, and showing the users balance. Users can also set monthly budgets and savings goals. They can also delete and change their existing budgets.
+
+*Scenario:*
+
+A student has a monthly income of 1500CHF and wants to manage their spending efficiently. They can then open our budgeting tool and enter their income. For the following month they can add expenses (e.g. 50CHF for groceries, 20CHF for transport). They have the option to include the date, category and description. They can then view all their transactions, if need be correct mistakes and even check how much they have spent in each category.
+
+*User Roles:*
+
+The application is designed for individual users, who want to manage their personal finances. Therefore there is only one user role, the regular user, as all users share the same goal: Manage their finances. The user can add, delete and edit transactions, filter expenses, set budgets and savings goals and lastly check their financial overview, which can be filtered by timeframe.
